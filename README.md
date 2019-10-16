@@ -1,5 +1,5 @@
 # Bitz-price
-Next.js app which whos the current Bitcoin value in USD, GBP and EUR
+>Next.js app which predict the current Bitcoin value in USD, GBP and EUR using coindesk API
 
 
 ![image](bithome.png)
